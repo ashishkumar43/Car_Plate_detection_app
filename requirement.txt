@@ -8,3 +8,4 @@ gTTS
 numpy
 pandas
 ipython
+requests
