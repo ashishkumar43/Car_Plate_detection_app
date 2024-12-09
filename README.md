@@ -1,1 +1,0 @@
-# Car_Plate_detection_app
